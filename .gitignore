@@ -4,8 +4,6 @@
 # Claude Code
 .claude/
 
-# Excalidraw
-*.excalidraw
 
 # Logs
 *.log
